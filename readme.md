@@ -1,8 +1,10 @@
 # Probabilistic Perspective on Diffusion Models: Theory and Implementation  
 **CSDS 491 Probabilistic Graphical Models**  
-Spring 2025  
-Case Western Reserve University  
+Case Western Reserve University
+Spring 2025    
 Benjamin Zheng
+
+View the final report in written/Final Report
 
 ## Outcomes
 
