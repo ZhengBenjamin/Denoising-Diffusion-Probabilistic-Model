@@ -4,7 +4,7 @@ Case Western Reserve University
 Spring 2025    
 Benjamin Zheng
 
-View the final report in written/Final Report
+View the final report in **Final_Report.pdf** in the written folder.
 
 ## Outcomes
 
